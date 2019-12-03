@@ -1,0 +1,36 @@
+Homework questions (each question = 5points)
+Please answer the following questions:
+
+1. How is the source port number of the client program assigned?
+
+	The OS specifies the port number.
+
+2. How is the source port number of the server program assigned?
+	
+Assigned by the programmer.
+
+3. Is it possible to use clientSocket.bind() method in the client program? Please
+explain.
+	
+Can be used. By using it, a specific port number can be assigned (bind).
+
+4. What are multiplexing and demultiplexing?
+	
+Multiplexing allows multiple different clients to query the same server for different content. Demultiplexing means that different information can be sent from one server to different clients without interference as in this example.
+
+5. Describe the possible techniques to provide reliable service over UDP.
+	
+In order to provide a highly reliable service using UDP, it is necessary to improve the reliability of the service itself by implementing adding acknowledgment, sequence #, and retransmission.
+
+6. What is a subnet?
+	
+A subnet is a network composed of small clients in a huge network. The purpose is to divide the network and make it easier to manage.
+
+7. What are the difference between IPv4 and IPv6?
+	
+IPv4 is a version of the conventional IP address and is an address represented by a 32-bit number. IPv6 is the next generation IP address and is expressed in hexadecimal with 128 bits.
+
+8. What is the relation of UDP & RTP? Please explain the fields provided by RTP.
+
+
+	Sorry, No idea.

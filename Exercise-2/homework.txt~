@@ -1,0 +1,13 @@
+Homework questions (each question = 5points)
+Please answer the following questions:
+1. How is the source port number of the client program assigned?
+The OS specifies the port number.
+2. How is the source port number of the server program assigned?
+Assigned by the programmer.
+3. Is it possible to use clientSocket.bind() method in the client program? Please
+explain.
+Can be used. By using it, a specific port number can be assigned (bind).
+4. What are multiplexing and demultiplexing?
+5. Describe the possible techniques to provide reliable service over UDP.6. What is a subnet?
+7. What are the difference between IPv4 and IPv6?
+8. What is the relation of UDP & RTP? Please explain the fields provided by RTP.

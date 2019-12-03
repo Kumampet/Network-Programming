@@ -1,0 +1,21 @@
+std1dc26:Exercise-3 s1250050[86]$ python TCPClient.py 
+
+HTTP/1.1 200 OK
+Date: Mon, 11 Nov 2019 02:34:35 GMT
+Expires: -1
+Cache-Control: private, max-age=0
+Content-Type: text/html; charset=ISO-8859-1
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: gws
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: 1P_JAR=2019-11-11-02; expires=Wed, 11-Dec-2019 02:34:35 GMT; path=/; domain=.google.com
+Set-Cookie: NID=191=HjeLyzg6AGp1uALhCvWhEqvcbd29TFZ_CqRkqUyXQh5Wwy5UNE2UcmmO_uXOO21zSR8NjJvGTInsNujhriG3kbfOynNS4ys1fwwdxiSEwSSeekgueB-y-G_6mzRq69pjfW4_WcYWqO9BXUYD0YFnf0viEPAI0y8TNvprq4-Ud4U; expires=Tue, 12-May-2020 02:34:35 GMT; path=/; domain=.google.com; HttpOnly
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+5fce
+<!doctype html><html itemscope="" itemtype="http://schema.org/WebPage" lang="ja"><head><meta content="&#19990;&#30028;&#20013;&#12398;&#12354;&#12425;&#12422;&#12427;&#24773;&#22577;&#12434;&#26908;&#32034;&#12377;&#12427;&#12383;&#12417;&#12398;&#12484;&#12540;&#12523;&#12434;&#25552;&#20379;
+Delay: 0.091996 sec
+

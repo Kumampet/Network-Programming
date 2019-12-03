@@ -1,0 +1,19 @@
+std1dc26:Exercise-3 s1250050[75]$ python TCPClient.py 
+HTTP/1.1 200 OK
+Date: Mon, 11 Nov 2019 02:25:27 GMT
+Expires: -1
+Cache-Control: private, max-age=0
+Content-Type: text/html; charset=ISO-8859-1
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Server: gws
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: 1P_JAR=2019-11-11-02; expires=Wed, 11-Dec-2019 02:25:27 GMT; path=/; domain=.google.com
+Set-Cookie: NID=191=im6GHCe4WiStbvOXvR13tID3JFazCuI1HLk5JSwCMjMih-IAS8FDqMCzVFI6wWUgR417hem_4qF0mc1BdCZpAj9DaqPLZVy2lmEdsKgmzc7RNQwEjSIwlCcClTP_Nzme_IsDs2faKWBPhgvnJi4AD5JbGHUfn-b3P92w1GRo4Ew; expires=Tue, 12-May-2020 02:25:27 GMT; path=/; domain=.google.com; HttpOnly
+Accept-Ranges: none
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+
+5f99
+<!doctype html><html itemscope="" itemtype="http://schema.org/WebPage" lang="ja"><head><meta content="&#19990;&#30028;&#20013;&#12398;&#12354;&#12425;&#12422;&#12427;&#24773;&#22577;&#12434;&#26908;&#32034;&#12377;&#12427;&#12383;&#12417;&#12398;&#12484;&#12540;&#12523;&#12434;&#25552;&#20379;
+

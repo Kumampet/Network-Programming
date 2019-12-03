@@ -1,0 +1,11 @@
+std1dc26:Exercise-3 s1250050[87]$ python TCPClient.py 
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: http://www.playstation.com/ja-jp/
+Date: Mon, 11 Nov 2019 02:36:29 GMT
+Connection: keep-alive
+
+
+Delay: 0.021509 sec
+
